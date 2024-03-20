@@ -2,9 +2,9 @@
 
 ## Software Developer
 
-- 👨‍💻 See my portfolio [rukaokamoto.com](https://rukaokamoto.com)
+- 👨‍💻 See my portfolio
 - 📩 How to reach me rukaokamoto0212@gmail.com
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/%E7%90%89%E9%9B%85-%E5%B2%A1%E6%9C%AC-4624792bb/)
+- 📄 Know about my experiences
 
 ### Language and Tools
 
