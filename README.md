@@ -4,7 +4,7 @@
 
 - 👨‍💻 See my portfolio
 - 📩 How to reach me rukaokamoto0212@gmail.com
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rukaokamoto/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rukaokamoto/) or [Wantedly](https://www.wantedly.com/id/rukaokamoto)
 
 ### Language and Tools
 
