@@ -3,11 +3,11 @@
 ## Software Developer
 
 - 👨‍💻 See my portfolio
-- 📩 How to reach me rukaokamoto0212@gmail.com
+- 📩 How to reach me rurukasan0212@gmail.com
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rukaokamoto/) or [Wantedly](https://www.wantedly.com/id/rukaokamoto)
 
 ### Language and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,ruby,nodejs,mysql,aws,docker,redis,elasticsearch,jenkins" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nodejs,mysql,aws,docker,redis,elasticsearch,jenkins" />
 </a>
